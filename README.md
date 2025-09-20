@@ -1,5 +1,3 @@
-![GitHub Avatar](https://avatars.githubusercontent.com/u/alfredofdlv?v=4)
-
 # Hi there, I'm Alfredo Flórez de la Vega 👋
 
 **Aspiring Data Scientist passionate about finance and AI**
