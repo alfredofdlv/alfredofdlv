@@ -19,9 +19,8 @@ I'm currently a student majoring in Data Science, with a strong interest in the 
   Leveraging deep learning for medical image analysis and disease detection.
 
 You can also check out more of my work:
-- [sd-pl2-g13](https://github.com/alfredofdlv/sd-pl2-g13)
-- [sd-prueba](https://github.com/alfredofdlv/sd-prueba)
-- [Data-Analysis-DSBIO](https://github.com/alfredofdlv/Data-Analysis-DSBIO)
+- [Enviromental Sound Classification with Deep Learning and Deepfool Approach](https://github.com/alfredofdlv/Environmental-Sound-Classification-with-Deep-Learning-a-Deepfool-Approach)
+- [Student Grades Pipeline + App Deploymment]([https://github.com/alfredofdlv/Data-Analysis-DSBIO](https://github.com/alfredofdlv/student-intervention-ml-pipeline))
 
 ### 📫 Connect with Me
 
