@@ -22,6 +22,11 @@ You can also check out more of my work:
 - [Enviromental Sound Classification with Deep Learning and Deepfool Approach](https://github.com/alfredofdlv/Environmental-Sound-Classification-with-Deep-Learning-a-Deepfool-Approach)
 - [Student Grades Pipeline + App Deploymment](https://github.com/alfredofdlv/student-intervention-ml-pipeline))
 
+## GitHub Stats 📈  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredofdlv&theme=algolia)](https://github.com/alfredofdlv/github-readme-stats)  
+
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363)](https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363)
