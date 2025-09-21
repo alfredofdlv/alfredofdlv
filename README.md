@@ -22,10 +22,17 @@ You can also check out more of my work:
 - [Enviromental Sound Classification with Deep Learning and Deepfool Approach](https://github.com/alfredofdlv/Environmental-Sound-Classification-with-Deep-Learning-a-Deepfool-Approach)
 - [Student Grades Pipeline + App Deploymment](https://github.com/alfredofdlv/student-intervention-ml-pipeline))
 
-## GitHub Stats 📈  
+## ⚡️ Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredofdlv&theme=algolia)](https://github.com/alfredofdlv/github-readme-stats)  
+<br>
 
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfredofdlv&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="alfredofdlv's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=alfredofdlv&theme=transparent&count_private=true&border_radius=10&locale=en" alt="alfredofdlv's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredofdlv&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="alfredofdlv's Most Used Languages" />
+</div>
+
+<hr>
 
 ### 📫 Connect with Me
 
