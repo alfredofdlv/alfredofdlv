@@ -21,6 +21,7 @@ I'm currently a student majoring in Data Science, with a strong interest in the 
 You can also check out more of my work:
 - [Enviromental Sound Classification with Deep Learning and Deepfool Approach](https://github.com/alfredofdlv/Environmental-Sound-Classification-with-Deep-Learning-a-Deepfool-Approach)
 - [Student Grades Pipeline + App Deploymment](https://github.com/alfredofdlv/student-intervention-ml-pipeline))
+- [Amazon Refill Planner + App Deploymment](https://github.com/alfredofdlv/Amazon-Refill-Planner))
 
 ## ⚡️ Stats
 
