@@ -6,7 +6,7 @@
 
 ### 🎓 About Me
 
-I'm currently a student majoring in Data Science, with a strong interest in the intersection of finance and artificial intelligence. My technical strengths include:
+I'm currently a student majoring in Data Science, with a strong interest in the intersection of finance, artificial intelligence and science. My technical strengths include:
 
 - **Machine Learning & Deep Learning**
 - **Python Programming**
@@ -26,7 +26,7 @@ You can also check out more of my work:
 
 <br>
 
-<div align=center>
+<div align=center> 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfredofdlv&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="alfredofdlv's GitHub Stats" />
   <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=alfredofdlv&theme=transparent&count_private=true&border_radius=10&locale=en" alt="alfredofdlv's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredofdlv&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="alfredofdlv's Most Used Languages" />
