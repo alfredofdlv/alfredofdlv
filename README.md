@@ -1,43 +1,72 @@
-# Hi there, I'm Alfredo Flórez de la Vega 👋
-
-**Aspiring Data Scientist passionate about finance and AI**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <h1>Hi there, I'm Alfredo Flórez de la Vega 👋</h1>
+  <h3>Aspiring Data Scientist | Finance & AI Enthusiast</h3>
+  
+  <a href="https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
 ### 🎓 About Me
 
-I'm currently a student majoring in Data Science, with a strong interest in the intersection of finance, artificial intelligence and science. My technical strengths include:
+I'm a Data Science student passionate about the intersection of **Finance, Artificial Intelligence, and Scientific Research**. I love turning complex data into actionable insights using both **Python** and **R**.
 
-- **Machine Learning & Deep Learning**
-- **Python Programming**
-
-### 🚀 Favorite Projects
-
-- **[Forecast of S&P500 and Portfolio Optimization](https://github.com/alfredofdlv/Stock-Portfolio-Forecasting-and-Optimization-on-S-P-500)**  
-  Exploring predictive modeling and optimization in financial markets.
-- **[Lung Cancer Classification using Computerized Tomography (CT) Data](https://github.com/alfredofdlv/Lung-Cancer-Classification-using-Computerized-Tomography-CT-Data)**  
-  Leveraging deep learning for medical image analysis and disease detection.
-
-You can also check out more of my work:
-- [Enviromental Sound Classification with Deep Learning and Deepfool Approach](https://github.com/alfredofdlv/Environmental-Sound-Classification-with-Deep-Learning-a-Deepfool-Approach)
-- [Student Grades Pipeline + App Deploymment](https://github.com/alfredofdlv/student-intervention-ml-pipeline))
-- [Amazon Refill Planner + App Deploymment](https://github.com/alfredofdlv/Amazon-Refill-Planner))
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center> 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfredofdlv&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="alfredofdlv's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredofdlv&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="alfredofdlv's Most Used Languages" />
-</div>
-
-<hr>
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363)](https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363)
+- 🔭 I’m currently working on **Advanced Portfolio Optimization**.
+- 🌱 I’m currently learning **LLMs and Generative AI**.
+- 👯 I’m looking to collaborate on **Open Source Data Science projects**.
 
 ---
 
-*Thanks for visiting my profile!*
+### 🛠️ Tech Stack
+
+**Languages & Core:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</div>
+
+**Data Science & AI:**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[📈 S&P500 Forecasting](https://github.com/alfredofdlv/Stock-Portfolio-Forecasting-and-Optimization-on-S-P-500)** | Predictive modeling and portfolio optimization in financial markets. | `Time Series` `Optimization` `Python` |
+| **[🫁 Lung Cancer CT Classif.](https://github.com/alfredofdlv/Lung-Cancer-Classification-using-Computerized-Tomography-CT-Data)** | Deep learning for medical image analysis and disease detection using CT scans. | `Computer Vision` `Deep Learning` `CNN` |
+| **[🩺 CKD-Nexus](https://github.com/alfredofdlv/CKD-Nexus)** | Chronic Kidney Disease prediction and analysis platform for early detection. | `Medical AI` `Predictive Analytics` `Classification` |
+| **[🔊 Sound Classification](https://github.com/alfredofdlv/Environmental-Sound-Classification-with-Deep-Learning-a-Deepfool-Approach)** | Environmental sound classification using DeepFool approach. | `Audio Processing` `Adversarial AI` |
+| **[🎓 Student Grades Pipeline](https://github.com/alfredofdlv/student-intervention-ml-pipeline)** | End-to-end ML pipeline with app deployment. | `MLOps` `Deployment` `Pipeline` |
+| **[📦 Amazon Refill Planner](https://github.com/alfredofdlv/Amazon-Refill-Planner)** | Logistics and planning optimization tool. | `Optimization` `Planning` |
+
+---
+
+### ⚡️ GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfredofdlv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredofdlv&layout=compact&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <i>Let's connect and talk about Data!</i>
+</div>
