@@ -58,11 +58,12 @@ I'm a Data Science student passionate about the intersection of **Finance, Artif
 ### ⚡️ GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfredofdlv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/alfredofdlv">
+    <img height="180" src="https://github-readme-stats-sandy-seven-29.vercel.app/api?username=alfredofdlv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Alfredo" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredofdlv&layout=compact&theme=radical&hide_border=true"/>
+  
+  <a href="https://github.com/alfredofdlv">
+    <img height="180" src="https://github-readme-stats-sandy-seven-29.vercel.app/api/top-langs/?username=alfredofdlv&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes de Alfredo" />
   </a>
 </div>
 
