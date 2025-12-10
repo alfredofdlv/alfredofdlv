@@ -3,11 +3,12 @@
   <h1>Hi there, I'm Alfredo Flórez de la Vega 👋</h1>
   <h3>Aspiring Data Scientist | Finance & AI Enthusiast</h3>
   
-  <br> <a href="https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363">
-    <img src="https://img.shields.io/badge/Connect-linkedin?style=social&logo=linkedin" alt="LinkedIn"/>
+  <br>
+  
+  <a href="https://es.linkedin.com/in/alfredo-fl%C3%B3rez-de-la-vega-960540363">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
 ---
 
 ### 🎓 About Me
